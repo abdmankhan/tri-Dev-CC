@@ -6,6 +6,7 @@ node_modules/
 # Ignore environment variables
 .env
 backend/.env
+backend/node_modules
 
 # Expo
 .expo/
